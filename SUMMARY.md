@@ -17,3 +17,4 @@
     * [@Bean, @Component 차이](readme/spring/bean-component.md)
     * [Spring과 Spring Boot의 차이](readme/spring/spring-spring-boot.md)
     * [Maven과 Gradle의 차이](readme/spring/maven-gradle.md)
+    * [@Controller와 @RestController 차이(+@ResponseBody)](readme/spring/controller-restcontroller-+-responsebody.md)
