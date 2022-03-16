@@ -21,3 +21,4 @@
   * [SQL](readme/sql/README.md)
     * [SQL 언어의 종류](readme/sql/sql.md)
     * [DDL ( 데이터 정의어 )](readme/sql/ddl.md)
+    * [DCL ( 데이터 제어 언어 )](readme/sql/dcl.md)
