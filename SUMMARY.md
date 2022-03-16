@@ -20,3 +20,4 @@
     * [@Controller와 @RestController 차이(+@ResponseBody)](readme/spring/controller-restcontroller-+-responsebody.md)
   * [SQL](readme/sql/README.md)
     * [SQL 언어의 종류](readme/sql/sql.md)
+    * [DDL ( 데이터 정의어 )](readme/sql/ddl.md)
