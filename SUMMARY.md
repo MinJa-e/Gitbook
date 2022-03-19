@@ -24,3 +24,4 @@
     * [DCL ( 데이터 제어 언어 )](readme/sql/dcl.md)
     * [DML ( Data Manipulation Language )](readme/sql/dml-data-manipulation-language.md)
     * [Data Manipulation Language )](readme/sql/data-manipulation-language.md)
+    * [- 데이터 질의어 (SELECT문)](readme/sql/select.md)
