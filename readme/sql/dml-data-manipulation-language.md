@@ -1,4 +1,4 @@
-# DML ( Data Manipulation Language )
+# DML ( 데이터 조회어 )
 
 ### **DML ( Data Manipulation Language )**
 
