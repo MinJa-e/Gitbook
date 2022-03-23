@@ -26,3 +26,4 @@
     * [DQL ( 데이터 질의어 ) - SELECT문](readme/sql/dql-select.md)
   * [OTHERS](readme/others/README.md)
     * [계층화 아키텍처란?](readme/others/undefined.md)
+    * [TCP/IP란?](readme/others/tcp-ip.md)
