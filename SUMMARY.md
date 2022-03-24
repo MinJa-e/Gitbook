@@ -27,3 +27,4 @@
   * [OTHERS](readme/others/README.md)
     * [계층화 아키텍처란?](readme/others/undefined.md)
     * [TCP/IP란?](readme/others/tcp-ip.md)
+    * [차이](readme/others/undefined-1.md)
