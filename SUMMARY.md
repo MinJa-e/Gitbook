@@ -28,4 +28,4 @@
     * [계층화 아키텍처란?](readme/others/undefined.md)
     * [TCP/IP란?](readme/others/tcp-ip.md)
     * [URI / URL / URN 의 차이](readme/others/uri-url-urn.md)
-    * [줄 정리](readme/others/undefined-1.md)
+    * [깃 용어 한 줄 정리](readme/others/undefined-1.md)
