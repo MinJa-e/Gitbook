@@ -31,5 +31,4 @@
     * [깃 용어 한 줄 정리](readme/others/undefined-1.md)
   * [Flutter(Dart)](readme/flutter-dart/README.md)
     * [플러터 UI 관련 문법](readme/flutter-dart/ui.md)
-    * [Page 2](readme/flutter-dart/page-2.md)
-  * [Page 1](readme/page-1.md)
+    * [Stateless, Stateful이란?](readme/flutter-dart/stateless-stateful.md)
