@@ -34,4 +34,5 @@
     * [Stateless, Stateful이란?](readme/flutter-dart/stateless-stateful.md)
 * [BLOG](https://ja-e.tistory.com)
 * [Github](https://github.com/MinJa-e)
-* [DB](db.md)
+* [DB](db/README.md)
+  * [합계 함수](db/undefined.md)
