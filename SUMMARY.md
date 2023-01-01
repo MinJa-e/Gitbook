@@ -33,5 +33,6 @@
     * [플러터 UI 관련 문법](readme/flutter-dart/ui.md)
     * [Stateless, Stateful이란?](readme/flutter-dart/stateless-stateful.md)
     * [Provider](readme/flutter-dart/provider.md)
+  * [Kotlin](readme/kotlin.md)
 * [BLOG](https://ja-e.tistory.com/)
 * [Github](https://github.com/MinJa-e)
