@@ -37,3 +37,4 @@
   * [Kotlin](readme/kotlin.md)
 * [BLOG](https://ja-e.tistory.com/)
 * [Github](https://github.com/MinJa-e)
+* [간단메모](undefined.md)
