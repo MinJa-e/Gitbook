@@ -6,3 +6,4 @@
     ```
     implementation("org.springframework.boot:spring-boot-starter-web")
     ```
+* 스프링은 기본적으로 resources/static/index.html을 기본 시작파일로 바라보며, 다른 경로를 설정하려면 별도의 코딩이 필요하다 ( 참고 : [https://bottom-to-top.tistory.com/38](https://bottom-to-top.tistory.com/38) )
