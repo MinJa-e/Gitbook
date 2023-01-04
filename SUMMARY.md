@@ -38,3 +38,6 @@
 * [BLOG](https://ja-e.tistory.com/)
 * [Github](https://github.com/MinJa-e)
 * [간단메모](undefined.md)
+* [에러모음](undefined-1/README.md)
+  * [뷰리졸버](undefined-1/undefined.md)
+  * [스프링부트 포트 중복](undefined-1/undefined-1.md)
