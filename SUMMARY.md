@@ -35,6 +35,7 @@
     * [Provider](readme/flutter-dart/provider.md)
   * [Framer](readme/framer.md)
   * [Kotlin](readme/kotlin.md)
+  * [Jira](readme/jira.md)
 * [BLOG](https://ja-e.tistory.com/)
 * [Github](https://github.com/MinJa-e)
 * [간단메모](undefined.md)
